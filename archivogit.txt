@@ -1,0 +1,7 @@
+total 14
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 11:36 ./
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 10:48 ../
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 11:30 .git/
+-rw-r--r-- 1 Curso Tarde 197121 233 Mar 28 10:47 For_Serie_natural_1_N.psc
+-rw-r--r-- 1 Curso Tarde 197121   0 Apr 12 11:36 archivogit.txt
+-rw-r--r-- 1 Curso Tarde 197121 266 Mar 28 09:22 calcular_Area_Triangulo.psc
